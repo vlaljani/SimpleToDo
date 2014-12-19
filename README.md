@@ -18,3 +18,5 @@ Required: User can edit a todo item
 
 Required: App persists todo items and retrieves them on app restart
 
+![alt tag](https://github.com/vlaljani/SimpleToDo/blob/master/SimpleToDo.gif)
+
